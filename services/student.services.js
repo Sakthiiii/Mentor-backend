@@ -42,7 +42,7 @@ let data = [
         id: 1,
       },
       {
-        name: "M2",
+        name: "Mahesh",
         studs: ["Preethi", "Mohammed", "Bharathi"],
         id: 2,
       },
