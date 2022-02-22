@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix student-mentor-front && npm run build --prefix student-mentor-front"
+    "start": "nodemon index.js"
+  
   },
   "author": "Aswinee",
   "license": "ISC",
